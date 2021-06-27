@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Self - Promo App</string>
+
+    <string name="hint_contact_name">Contact Name</string>
+    <string name="hint_contact_number" translatable="false">Contact Number</string>
+    <string name="hint_my_display_name" translatable="false">My Display Name</string>
+    <string name="checkbox_include_junior" translatable="false">Include \'Junior\'</string>
+    <string name="checkbox_immediate_start" translatable="false">Immediate Start</string>
+    <string name="text_input_layout_available_from_date" translatable="false">Available from date</string>
+    <string name="button_preview_message" translatable="false">Preview Message</string>
+
+    <string name="button_send_message" translatable="false">Send Message</string>
+</resources>
